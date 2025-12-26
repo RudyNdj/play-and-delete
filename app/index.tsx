@@ -1,4 +1,4 @@
-import { useSpotifyAuth } from "@/hooks/spotify-auth";
+import { useSpotifyAuth } from "@/hooks/use-spotify-auth";
 import { StyleSheet, Text, TouchableOpacity, View } from "react-native";
 
 export default function Index() {
